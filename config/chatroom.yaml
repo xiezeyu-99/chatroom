@@ -1,0 +1,10 @@
+sensitive:
+ - 坏蛋
+ - 坏人
+ - 发票
+ - 傻子
+ - 傻大个
+ - 傻人
+offline-num: 10
+token-secret: sdklfjmoejwpwjbop
+message-channel-buffer: 8
